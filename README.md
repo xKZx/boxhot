@@ -1,5 +1,7 @@
 # boxhot
-A heated enclosed Core XY FDM 3d printer. It is a box that is hot -> boxhot. 
+<h2>A heated enclosed Core XY FDM 3d printer. It is a box that is hot -> boxhot. </h2>
+
+![alt text](https://github.com/xKZx/boxhot/blob/main/a3.png?raw=true)
 
 The design is a celebration to the fact that patents eventually do expire. 
 
@@ -15,3 +17,5 @@ So what do we have here:
 First prototype currently in progress.
 
 BOM and assembly documentation will follow after initial prototype.
+
+Design Criteria
